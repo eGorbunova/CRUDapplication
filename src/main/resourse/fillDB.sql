@@ -1,0 +1,12 @@
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (1, 'Tom', 21, 0, '2016-01-01 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (2, 'Petr', 22, 0, '2016-01-02 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (3, 'Ivan', 23, 0, '2016-01-03 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (4, 'Klava', 24, 0, '2016-01-04 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (5, 'Nina', 25, 1, '2016-01-05 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (6, 'Igor', 26, 0, '2016-01-06 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (7, 'Mihail', 27, 0, '2016-01-07 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (8, 'Henry', 28, 0, '2016-01-08 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (9, 'Marta', 29, 0, '2016-01-09 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (10, 'Boris', 30, 1, '2016-01-10 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (11, 'Nikolai', 31, 0, '2016-01-11 00:00:00');
+INSERT INTO `users`.`user` (`id`, `name`, `age`, `isAdmin`, `createdDate`) VALUES (12, 'Maria', 32, 0, '2016-01-12 00:00:00');
